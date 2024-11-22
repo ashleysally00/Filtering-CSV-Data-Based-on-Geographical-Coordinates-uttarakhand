@@ -20,7 +20,6 @@ uttarakhand_bounds = {
     'lon_max': 81.80   # Slight adjustment if necessary
 }
 
-
 # Initialize an empty list to hold filtered data
 filtered_data = []
 
@@ -33,12 +32,12 @@ for root, dirs, files in os.walk(csv_base_folder):
                 # Read the CSV file with appropriate parameters
                 df = pd.read_csv(
                     file_path,
-                    sep='\t',               # Use tab as delimiter
-                    skiprows=2,             # Skip the first two comment lines
-                    names=columns,          # Assign predefined column names
-                    engine='python'         # Use the Python engine for better compatibility
+                    sep=',',               # Use comma as delimiter
+                    skiprows=2,            # Skip the first two comment lines
+                    names=columns,         # Assign predefined column names
+                    engine='python'        # Use the Python engine for better compatibility
                 )
-                
+
                 # Debug: Print the first few rows to verify correct parsing
                 print(f"\nProcessing {file_path}:")
                 print(f"Columns found: {df.columns.tolist()}")
@@ -55,6 +54,11 @@ for root, dirs, files in os.walk(csv_base_folder):
                     
                     # Drop rows where conversion failed
                     df = df.dropna(subset=['lat', 'lon'])
+                    
+                    # Debug: Log latitude and longitude ranges
+                    print(f"File: {file_path}")
+                    print(f"Lat range: {df['lat'].min()} - {df['lat'].max()}")
+                    print(f"Lon range: {df['lon'].min()} - {df['lon'].max()}")
                     
                     # Apply bounding box filter
                     df_filtered = df[
