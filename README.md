@@ -1,4 +1,4 @@
-# Wildfire Public Information Officer Interview, Redding, CA, 11/24/2024
+# Wildfire Public Information Officer Interview, Redding, California, 11/24/2024
 
 *The orange part about a page down is where it gets most important to this project I think. The information I got from him was very good. 
 
