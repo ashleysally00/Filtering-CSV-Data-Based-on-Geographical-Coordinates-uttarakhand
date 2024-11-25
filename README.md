@@ -51,7 +51,7 @@ You know the cycles. There is also backburning, where you’ve got a fire line, 
 
 A backburn is where you light the forest from the fire line and allow the fire that you lit to burn into the fire that was already burning. You might go in at 11 at night or 2 or 3 in the morning. You light the fire with your torch and try to get the fire to go downhill and meet the fire that is already burning. That creates a zone of burned material so that there is nothing left for the fire to burn. If you do it right, once your fire reaches the existing fire there is nothing left to burn. The fire goes out. The fire is 50 miles around but on that one mile stretch one that one ridge you have stopped that one flank of forward movement of the fire. If you do it right you can do that on every side of the fire. You can contain the fire and stop its movement. That does not mean there are not places in the middle still burning. 
 
-## Goal is Containment
+## The Goal is Containment
 
 When you are fighting a wildfire you are not trying to put the fire out. You’re trying to contain it. The fire will still burn, that is what happened in the August Fire. There were trees still burning up with charcoal the following Spring in the snow. But since it was contained we were not worried about it. Because the fire could not spread beyond its boundaries. One million and 36,000 acres. The job of the wildland firefighter is not to put a fire out it is to contain it. How weather plays in: you have that daily explosion of the fire, the nightly decline, the morning decline.
 
