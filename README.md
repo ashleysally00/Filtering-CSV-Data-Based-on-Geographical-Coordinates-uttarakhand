@@ -21,7 +21,7 @@ If we put the firelines in 100 miles ahead of the fire, it does not help. The wi
 If we had a better idea of how it was behaving, we could put our firelines in at the right place. You could also evacuate communities better because you would know where the fire was going to head. You could predict CO2 release with climate change. You could predict if there was a wetland, and you knew it was going to hit the edge of the wetland in the next few hours, but if you burn up to the edge of the wetland beforehand so there is no fuel when the wind comes in, it won’t jump the wetland.
 
 There are existing fire models, but they are not good. 
-Things to consider are weather: humidity, windspeed, wind direction, solar radiation, temperature, topography, slope, elevation, aspect (which direction does the slope face).
+Things to consider are weather, humidity, windspeed, wind direction, solar radiation, temperature, topography, slope, elevation, aspect (which direction does the slope face).
 Narrow canyons can accumulate fire and create a wick where the heat from burning fires can create the drying of the fuels ahead of it. Those are the things that we look out for. One of the things that I noticed the most that I thought was most important when I worked as a Fire Information Officer was that, even on your massive wildfires, it is a cyclic process. Even when the fuel is dry, and the topography is steep, fires move uphill because they can preheat the fuel in front of them. Fires move faster when traveling uphill than when downhill. But the wind driven fires on plains can be fast too even on flat terrain. With mountains at least you know that the fire will go to the top and then slow down when it gets to the other side.
 
 The August Fire, I worked on that:
