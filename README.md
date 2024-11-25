@@ -2,7 +2,7 @@
 
 *The orange part about a page down is where it gets very important to this project I think 
 
-I worked on: August Complex Fire (2020), Hirz Fire (2018), McFarland and Monument Fires(2021), South Fire(2019).
+**What fires were you involved in?**: I worked on: August Complex Fire (2020), Hirz Fire (2018), McFarland and Monument Fires(2021), South Fire(2019).
 
 We evacuated our house in the Carr Fire (2018): it marinated for a week and then created a tornado of fire, and we evacuated our house; the fire burned downhill which is unusual we don’t know why it should not have done that, it burnt downhill and at night into Redding. We had the Sacramento River and I-5 and that stopped its forward motion finally. The firefighters had to go in and make sure it was contained on all of the flanks or a month later another windstorm would kick it back up. 
 
