@@ -43,7 +43,7 @@ A backburn is where you light the forest from the fire line and allow the fire t
 
 ## Goal is Containment
 
-When you are fighting a wildfire you are not trying to put the fire out. You’re trying to contain it. The fire will still burn, that is what happened in the August Fire. There were trees still burning up with charcoal the following Spring in the snow. But since it was contained we were not worried about it. Because the fire could not spread beyond its boundaries. One million 36,000 acres. The job of the wildland firefighter is not to put a fire out it is to contain it. How weather plays in: you have that daily explosion of the fire, the nightly decline, the morning decline.
+When you are fighting a wildfire you are not trying to put the fire out. You’re trying to contain it. The fire will still burn, that is what happened in the August Fire. There were trees still burning up with charcoal the following Spring in the snow. But since it was contained we were not worried about it. Because the fire could not spread beyond its boundaries. One million and 36,000 acres. The job of the wildland firefighter is not to put a fire out it is to contain it. How weather plays in: you have that daily explosion of the fire, the nightly decline, the morning decline.
 
 But weather occurs at a larger scale. The cold front is a lot bigger than you would have a big blow up. The fire would grow by 50000 acres in a day. Then for several days through you had the daily y cycle it never grows as fast as it did. But then there is a different system that comes in with wind. And that wind changes everything.
 
