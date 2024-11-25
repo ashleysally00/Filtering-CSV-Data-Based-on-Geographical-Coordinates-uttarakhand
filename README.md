@@ -16,7 +16,7 @@ Prediction is useful because it tells you where to build the fire line. Fire lin
 
 Just as important to containment is inside the zone, where it is contained enough, it might not still be burning, it might be burning a little, but it is not burning a lot. 
 If we put the fire lines in 100 miles ahead of the fire, it does not help. The wind will push the fire over the fire line.
-If we had a better idea at how it was behaving, we could put our fire lines in at the right place. You could also evacuate communities better because you would know where the fire was going to head. you could predict CO2 release with climate change. You could predict if there was a wetland, and you knew it was going to hit the edge of the wetland in the next few hours, but if you burn up to the edge of the wetland beforehand so there is no fuel when the wind comes in, it won’t jump the wetland.
+If we had a better idea at how it was behaving, we could put our fire lines in at the right place. You could also evacuate communities better because you would know where the fire was going to head. You could predict CO2 release with climate change. You could predict if there was a wetland, and you knew it was going to hit the edge of the wetland in the next few hours, but if you burn up to the edge of the wetland beforehand so there is no fuel when the wind comes in, it won’t jump the wetland.
 
 There are existing fire models, but they are not good. 
 Things to consider weather: humidity, windspeed, wind direction, solar radiation, temperature, topography, sloe, elevation, aspect (which direction does the slope face)
