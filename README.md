@@ -12,7 +12,7 @@ But the Tubbs Fire and Thomas Fire (Los Angeles) and the Thomas Fire was on Chri
 
 There were those years where fires were insane, and we do not know why, like in 2017 (Coast of California burned), 2018 (Northern and Central Valley, Redding Chico), 2021(Sierras: Dixie Fire). It is probably a combination of long-term weather patterns, long term fuel conditions, which then depend on the weather patterns over the past 100 years. Also, humans can be good at finding patterns where they do not exist. But it seems to me more than a coincidence that we had all these fires all in one year, all within 100 miles of each other. Including the Coastal Fires. 
 
-Prediction and Firelines
+## Prediction and Firelines
 
 Prediction is useful because it tells you where to build the fireline. Firelines do not work when there are 40 mph winds. They just don’t. You have to get it contained before then. When the wind is so high, it can go over the fire line, the fire line is not going to stop it. But if the flank is secure, the 40 mph wind won’t matter, by then the fire is not burning so much it will not jump it. There is not fuel there. You have burned the fuel away first. That is what containment means. Containment means that there is so much of a zone where the fire cannot burn. And the outside of that zone is the fire line itself.
 
