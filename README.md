@@ -47,7 +47,7 @@ When you are fighting a wildfire you are not trying to put the fire out. You’r
 
 But weather occurs at a larger scale. The cold front is a lot bigger than you would have a big blow up. The fire would grow by 50000 acres in a day. Then for several days through you had the daily y cycle it never grows as fast as it did. But then there is a different system that comes in with wind. And that wind changes everything.
 
-If you look at it from a daily level… grows one day 1000 acres from wind. Growing about 1000 acres a day. Then a new weather system comes in and it blows everything up again.. instead of 30,000 it’s 200,0000 in one day. Instead of growing 1000 a day, it has jumped. From  firefighting standpoint, there is not really much you can do. You are putting in line, hoping that when it reaches the fire line hoping that when it reaches the line it will be in the condition to stop. People are sometimes so afraid of fire that they won’t left firefighters do their job and do backburns, which makes it worse. 
+If you look at it from a daily level, and it grows one day 1000 acres from wind. Growing about 1000 acres a day. Then a new weather system comes in and it blows everything up again.. instead of 30,000 it’s 200,0000 in one day. Instead of growing 1000 a day, it has jumped. From  firefighting standpoint, there is not really much you can do. You are putting in line, hoping that when it reaches the fire line hoping that when it reaches the line it will be in the condition to stop. People are sometimes so afraid of fire that they won’t left firefighters do their job and do backburns, which makes it worse. 
 There are a ton of fire models, but I suspect most of them are tuned to North America. I assume you want to use remotely sensed data. What  
 
 
