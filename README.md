@@ -82,7 +82,7 @@ If you have got to control a fire whose perimeter is 1 mile, and the fire is goi
 You want to build the fireline such that at the exact moment that the fireline is done the fire touches to fireline, like catching the fire. 
 If we do not build it fast enough, the fire will burn over it. If we build it too fast or too far from the fire, by the time the fireline is done, the fire has not stopped burning. Ideally, we want the fires as small as possible. We have to build the fireline as close to the fire as we possibly can. It takes time to build that fireline. If it is a fire that is 50 miles in circumference we are also needing to factor in how long it takes to ship in another bulldozer from another part of the country. I want to know how fast this fire is growing. Machine Learning needs to say, at this pixel, I need to know, will this fire grow at this speed? So that I can build the fireline in the right place.
 
-*This is a Fire triangle:*
+*This is a fire triangle:*
 heat, oxygen, and fuel
 
 *This is a fire behavior triangle:*
