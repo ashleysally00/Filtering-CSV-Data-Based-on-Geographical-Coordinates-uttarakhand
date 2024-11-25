@@ -4,7 +4,7 @@
 
 I worked on: August Complex Fire (202), Hirz Fire (2018), Mcfarland and Monument FIres(2021), South Fire(2019).
 
-We evacuated our house in the Carr Fire (2018): it marinated for a week and then created a tornado of fire, evaluated our house; the fire burned downhill which is unusual we don’t know why it should not have done that, it burnt downhill and at night into Redding. We had the Sacramento River and I-5 and that stopped its forward motion finally. The firefighters had to go in and make sure it was contained on all of the flanks or a month later another wind storm would kick it back up. 
+We evacuated our house in the Carr Fire (2018): it marinated for a week and then created a tornado of fire, and we evacuated our house; the fire burned downhill which is unusual we don’t know why it should not have done that, it burnt downhill and at night into Redding. We had the Sacramento River and I-5 and that stopped its forward motion finally. The firefighters had to go in and make sure it was contained on all of the flanks or a month later another wind storm would kick it back up. 
 
 Nothing can contain that 300mph or 70 mph wind that went through Redding, But you needed to contain it in the 5 days before it got to Redding. The Parks Service wasn’t putting it out as fast as they should have because they thought the burning would be good. It probably didn’t occur to them that the fire could burn up like it did. It was 2018. They had the Hirz the Carr Fire the Delta Fire and the Camp Fire. It was a crazy year for fire and we do not quite know why. Why was 2018 a crazy fire year in northern Ca?
 
