@@ -16,7 +16,7 @@ Some of the areas where they told people where it would be safe, it was not. May
 
 There were those years where fires were insane, and we do not know why, like in 2017 (Coast of California burned), 2018 (Northern and Central Valley, Redding Chico), 2021(Sierras: Dixie Fire). It is probably a combination of long-term weather patterns, long term fuel conditions, which then depend on the weather patterns over the past 100 years. Also, humans can be good at finding patterns where they do not exist. But it seems to me more than a coincidence that we had all these fires all in one year, all within 100 miles of each other. Including the Coastal Fires. 
 
-## Prediction, Containment, and Firelines
+## Prediction, Containment and Firelines
 
 Prediction is useful because it tells you where to build the fireline. Firelines do not work when there are 40 mph winds. They just don’t. You have to get it contained before then. When the wind is so high, it can go over the fireline, the fireline is not going to stop it. But if the flank is secure, the 40 mph wind won’t matter, by then the fire is not burning so much it will not jump it. There is not fuel there. You have burned the fuel away first. That is what containment means. Containment means that there is so much of a zone where the fire cannot burn. And the outside of that zone is the fireline itself.
 
@@ -63,7 +63,7 @@ There are a ton of fire models, but I suspect most of them are tuned to North Am
 
 The next day the inversion layer lifts, it pushes off the inversion layer, there is fresh air, and that moves the fire. 
 
-## Data and Calculation Including Linear Regression
+## Data and Calculations Including Linear Regression
 
 The basic question is trying to figure out the combination of conditions that lead to faster fire growth. You have a ton of data on topography and weather. Steepness, aspects, all aspects of weather. Satellite heat data , infrared data is the most important. Satellite based infrared data that looks at the size of the fire. I would want to use daily or hourly imagery to calculate how fast the fire is moving. You can say this fire was 5 acres today, now it is 30 acres. You can figure out the rate of fire spread from that. If you can figure out the rate of fire spread over every pixel.. then you can correlate that fire spread to every aspect of the ground.. like fuel, which you can also get from satellite imagery. I would want to correlate all of this with rate of spread. 
 
