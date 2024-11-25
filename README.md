@@ -51,4 +51,4 @@ heat, oxygen, and fuel
 
 *This is a fire behavior triangle:*
 weather, fuel and terrain
-![image](https://github.com/user-attachments/assets/c1c11559-355a-46b7-9cae-8a659e739634)
+
