@@ -1,6 +1,6 @@
 # Wildfire Public Information Officer Interview, Redding, California, 11/24/2024
 
-*The orange part about a page down is where it gets most helpful to this project - I think the information he gave me was very good. 
+*The orange part about a page down is where it gets most helpful to this project - the information he gave me was very good.*
 
 **What fires were you involved in?**: I worked on: August Complex Fire (2020), Hirz Fire (2018), McFarland and Monument Fires(2021), South Fire(2019).
 
