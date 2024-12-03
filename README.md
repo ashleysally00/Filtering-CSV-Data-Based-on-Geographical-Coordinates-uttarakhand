@@ -1,4 +1,4 @@
-# Interview with a Wildfire Public Information Officer and volunteer firefighter, Redding, California (11/24/2024)
+# Interview with a Wildfire Public Information Officer and Volunteer Firefighter, Redding, California (11/24/2024)
 
 *For more detailed information on this project about creating a machine learning tool for wildfire spread prediction, you can check out my project repo on GitHub: [Uttarakhand Land Surface Temperature (LST) Analysis Using GEE](https://github.com/ashleysally00/Uttarakhand-Land-Surface-Temperature-LST-Analysis-Using-GEE/blob/main/README.md)*
 
