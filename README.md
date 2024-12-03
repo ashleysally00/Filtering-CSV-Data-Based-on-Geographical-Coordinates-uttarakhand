@@ -1,8 +1,8 @@
 # Interview with a Wildfire Public Information Officer and volunteer firefighter, Redding, California (11/24/2024)
 
-For more detailed information on this project for creating a machine learning tool for wildfire spread prediction, you can check out the README of my project on GitHub: [Uttarakhand Land Surface Temperature (LST) Analysis Using GEE](https://github.com/ashleysally00/Uttarakhand-Land-Surface-Temperature-LST-Analysis-Using-GEE/blob/main/README.md)
+*For more detailed information on this project for creating a machine learning tool for wildfire spread prediction, you can check out my project repo on GitHub: [Uttarakhand Land Surface Temperature (LST) Analysis Using GEE](https://github.com/ashleysally00/Uttarakhand-Land-Surface-Temperature-LST-Analysis-Using-GEE/blob/main/README.md)*
 
-Please note that the file for the mean LST day is too large to include directly in my repository. However, if you'd like to access it, you can view or download it from my DagsHub repository: [Uttarakhand-Land-Surface-Temperature-LST-Analysis-Using-GEE](https://dagshub.com/ashleysally00/Uttarakhand-Land-Surface-Temperature-LST-Analysis-Using-GEE)
+*Please note that the file for the mean LST day is too large to include directly in my repository. However, if you'd like to access it, you can view or download it from my DagsHub repository: [Uttarakhand-Land-Surface-Temperature-LST-Analysis-Using-GEE](https://dagshub.com/ashleysally00/Uttarakhand-Land-Surface-Temperature-LST-Analysis-Using-GEE)*
 
 
 
