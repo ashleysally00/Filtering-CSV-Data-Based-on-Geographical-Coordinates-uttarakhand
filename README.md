@@ -6,7 +6,7 @@
 
 ---
 
-I interviewed a wildfire public information officer and volunteer firefighter in Redding, California, in order to gain insight into what types of data would be most useful when developing a machine learning-based wildfire prediction tool with a focus on wildfire spread. My goal was to understand the perspective of someone who had been present during many wildfires as they unfolded.
+I interviewed a wildfire public information officer and volunteer firefighter in Redding, California, in order to gain insight into what types of data would be most useful for developing a machine learning-based wildfire prediction tool with a focus on wildfire spread. My goal was to understand the perspective of someone who had been present during many wildfires as they unfolded.
 
 **What fires were you involved in?**: I worked on: August Complex Fire (2020), Hirz Fire (2018), McFarland and Monument Fires(2021), South Fire(2019).
 
