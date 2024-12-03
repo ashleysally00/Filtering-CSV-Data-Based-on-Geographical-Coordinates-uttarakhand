@@ -2,7 +2,7 @@
 
 *For more detailed information on this project about creating a machine learning tool for wildfire spread prediction, you can check out my project repo on GitHub: [Uttarakhand Land Surface Temperature (LST) Analysis Using GEE](https://github.com/ashleysally00/Uttarakhand-Land-Surface-Temperature-LST-Analysis-Using-GEE/blob/main/README.md)*
 
-*Please note that the tif file for the mean LST day is too large to include directly in my repository. However, if you'd like to access it, you can view or download it from my DagsHub repository: [Uttarakhand-Land-Surface-Temperature-LST-Analysis-Using-GEE](https://dagshub.com/ashleysally00/Uttarakhand-Land-Surface-Temperature-LST-Analysis-Using-GEE)*
+*Please note that the tif files for the mean LST day and night are too large to include directly in my repository. However, if you'd like to access them, you can view or download then from my DagsHub repository: [Uttarakhand-Land-Surface-Temperature-LST-Analysis-Using-GEE](https://dagshub.com/ashleysally00/Uttarakhand-Land-Surface-Temperature-LST-Analysis-Using-GEE)*
 
 ---
 
